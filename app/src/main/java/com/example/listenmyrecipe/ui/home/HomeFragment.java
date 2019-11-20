@@ -46,7 +46,6 @@ public class HomeFragment extends Fragment {
         tran = fm.beginTransaction();
 
 
-
         recipebutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
